@@ -1,0 +1,13 @@
+sort function
+toString
+toInt
+to double or float
+size or length
+index of
+string includes
+converting to lowercase
+converting to uppercase
+Map or dictionary
+call function with self argument
+
+modulos
