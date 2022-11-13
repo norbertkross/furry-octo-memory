@@ -74,4 +74,16 @@ const functionsForRevise = () =>{
           this.year = year;
         }
       }
+
+      let myCar1 = new Car("Ford", 2014);
+
+      // Prptotypes
+      var UndergroundSystem = function() {
+        this.checkIn()
+    };
+       
+    UndergroundSystem.prototype.checkIn = function(id, stationName, t) {
+        this.string = "My Name"
+    };   
+
 }
